@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="74.407">
+    <testcase classname="A101 Kullanici Kaydi Yapmadan AlisVeris Yapmali" name="TC01 Kullanici A101 Sayfasindan siparis olusturur" time="73.953">
+        <system-out>
+            <![CDATA[Given Kullanici istenen <"a101Url"> gider...................................passed
+When kullanici GİYİM & AKSESUAR'i tiklar....................................passed
+Then Kullanici kadin icgiyim'i tiklar.......................................passed
+And Kullanici dizalti corap'i tiklar........................................passed
+And Kullanici ilk urunu tiklar..............................................passed
+And Kullanici urunun siyah corap oldugunu dogrular..........................passed
+And Kullanici urunu sepete ekler............................................passed
+And Kullanici sepeti goruntule butonunu tiklar..............................passed
+And Kullanici sepetindeki urunu dogrular ve sepeti onayla butonuna tiklar...passed
+And Kullanici uye olmadan devam et butonunu tiklar..........................passed
+And Kullanici mail adresini girer ve devam et butonunu tiklar...............passed
+And Kullanici adres olustur butonunu tiklara................................passed
+And Kullanici Adres Başlığı Ad soyad Cep Telefonu Il Ilce Mah Adres kisimlarini doldurup kaydet butonuna tiklar.passed
+And Kullanici kargo secimini yapar ve devam butonunu tiklar.................passed
+And Kullanici odeme sayfasinda oldugunu dogrular............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
